@@ -25,7 +25,7 @@ JavaScript (Vanilla)
 
 🌐 Live Demo
 
-(Add your GitHub Pages link here after deployment)
+https://rahulradhakrishnan45.github.io/password-generator/
 
 📂 Project Structure
 password-generator/
